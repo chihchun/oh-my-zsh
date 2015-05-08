@@ -35,10 +35,10 @@ If you find one, comment on it so we can know there are more people experiencing
 Oh-My-Zsh is a community-driven project. Contribution is welcome, encouraged and appreciated.
 It is also essential for the development of the project.
 
-These guidelines are an attempt at better addressing the brobdingnagian amount of pending
+These guidelines are an attempt at better addressing the huge amount of pending
 issues and pull requests. Please read them closely.
 
-Foremost, be so kind as to [search](#use-the-search-luke), thus ensuring any contribution
+Foremost, be so kind as to [search](#use-the-search-luke). This ensures any contribution
 you would make is not already covered.
 
 * [Issues](#reporting-issues)
@@ -179,10 +179,14 @@ For any extensive change, _eg_ a new plugin, you will have to find testers to +1
 ## Use the Search, Luke
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 _May the Force (of past experiences) be with you_
 =======
 > May the Force (of past experiences) be with you
 >>>>>>> rewrite of contribution guidelines
+=======
+_May the Force (of past experiences) be with you_
+>>>>>>> Contributing: simple english, formatting
 
 GitHub offers [many search features](https://help.github.com/articles/searching-github/)
 to help you check whether a similar contribution to yours already exists. Please search
