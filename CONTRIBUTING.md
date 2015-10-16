@@ -1,9 +1,7 @@
 # CONTRIBUTING GUIDELINES
 
-Oh-My-Zsh is a community-driven project. Contribution is welcome, encouraged, and appreciated.
+Oh-My-Zsh is a community-driven project. Contribution is welcome, encouraged and appreciated.
 It is also essential for the development of the project.
-
-First, please take a moment to review our [code of conduct](CODE_OF_CONDUCT.md).
 
 These guidelines are an attempt at better addressing the huge amount of pending
 issues and pull requests. Please read them closely.
@@ -80,7 +78,7 @@ If the solution is already reported, try it out and +1 the pull request if the
 solution works ok. On the other hand, if you think your solution is better, post
 it with a reference to the other one so we can have both solutions to compare.
 
-If not, then go ahead and submit a PR. Please copy to anyone relevant (e.g. plugin
+If not, then go ahead and submit a PR. Please copy to anyone relevant (_eg_ plugin
 maintainers) by mentioning their GitHub handle (starting with `@`) in your message.
 
 ### You have an addition
@@ -88,8 +86,8 @@ maintainers) by mentioning their GitHub handle (starting with `@`) in your messa
 Please [do not](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#dont-send-us-your-theme-for-now)
 send themes for now.
 
-Please be so kind as to [search](#use-the-search-luke) for any pending, merged or rejected Pull Requests
-covering or related to what you want to add.
+Please be so kind as to [search](#use-the-search-luke) for any pending/merged/rejected PR covering or
+related to what you want to add.
 
 If you find one, try it out and work with the author on a common solution.
 
